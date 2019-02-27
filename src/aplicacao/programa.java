@@ -9,6 +9,8 @@ public class programa {
 
 	public static void main(String[] args) {
 
+		System.out.println("teste");
+		
 		Locale.setDefault(Locale.US);
 		Scanner sc = new Scanner(System.in);
 		
